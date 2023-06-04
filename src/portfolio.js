@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Rabius's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Rabius Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://rabiusme.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "MD.Rabius Sani Raju",
-  logo_name: "AshutoshHathidara",
+  title: "Rabius Sani Raju",
+  logo_name: "Rabius Sani Raju",
   nickname: "Rabius",
   subTitle:
-    "A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills. A dedicated Developer with distinguished Experience in Full Stack Development on the web,mobile, and server end.",
+    "I am A dedicated Developer with distinguished Experience in Full Stack Development on the Web, Mobile, and Server End.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/rabiusme",
+  githubProfile: "https://github.com/rabiusme",
 };
 
 const socialMediaLinks = [
@@ -72,13 +72,13 @@ const socialMediaLinks = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "https://www.facebook.com/rabiussani.raju",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/rabiusraju/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
