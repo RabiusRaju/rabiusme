@@ -26,8 +26,8 @@ const greeting = {
     "I am A dedicated Developer with distinguished Experience in Full Stack Development on the Web, Mobile, and Server End.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/rabiusme",
-  githubProfile: "https://github.com/rabiusme",
+  portfolio_repository: "https://github.com/RabiusRaju",
+  githubProfile: "https://github.com/RabiusRaju",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/rabiusme",
+    link: "https://github.com/RabiusRaju",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
