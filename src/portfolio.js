@@ -86,58 +86,60 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
+    // {
+    //   title: "Data Science & AI",
+    //   fileName: "DataScienceImg",
+    //   skills: [
+    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+    //     "⚡ Experience of working with Computer Vision and NLP projects",
+    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Tensorflow",
+    //       fontAwesomeClassname: "logos-tensorflow",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Keras",
+    //       fontAwesomeClassname: "simple-icons:keras",
+    //       style: {
+    //         backgroundColor: "white",
+    //         color: "#D00000",
+    //       },
+    //     },
+    //     {
+    //       skillName: "PyTorch",
+    //       fontAwesomeClassname: "logos-pytorch",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Python",
+    //       fontAwesomeClassname: "ion-logo-python",
+    //       style: {
+    //         backgroundColor: "transparent",
+    //         color: "#3776AB",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Deeplearning",
+    //       imageSrc: "deeplearning_ai_logo.png",
+    //     },
+    //   ],
+    // },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
+        "⚡ Creating application backend in Node, Express, Flask, Laravel",
         "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Software Architectural planning and Development ",
+        
       ],
       softwareSkills: [
         {
