@@ -287,8 +287,7 @@ const skills = {
       title: "UI/UX Design Convert Application",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Deploying highly attractive user interface for mobile and web applications",
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
