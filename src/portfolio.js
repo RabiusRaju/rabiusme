@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I am A dedicated Developer with distinguished Experience in Full Stack Development on the Web, Mobile, and Server End.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1w0DB3LTVlJFifs0LpLu7c9YExhC6DBEl/view?usp=sharing",
   portfolio_repository: "https://github.com/RabiusRaju",
   githubProfile: "https://github.com/RabiusRaju",
 };
@@ -790,7 +790,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
@@ -802,10 +802,10 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
+      "complex no 161, way no 6153,al hamriyah MUSCAT OM, 159",
+    locality: "Hamriyah",
+    country: "OM",
+    region: "MUSCAT",
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
