@@ -2,7 +2,7 @@
   "private": true,
   "name": "RabiusPortfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/RabiusRaju.github.io/rabiusme",
+  "homepage": "http://RabiusRaju.github.io/rabiusme",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
